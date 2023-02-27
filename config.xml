@@ -23,7 +23,7 @@
     <preference name="StatusBarBackgroundColor" value="#494949" />
     <preference name="StatusBarStyle" value="blackOpaque" />
     <preference name="AndroidXEnabled" value="true" />
-    <preference name="android-targetSdkVersion" value="32" />
+    <preference name="android-targetSdkVersion" value="31" />
     <feature name="SplashScreen">
         <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
     </feature>
